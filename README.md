@@ -21,7 +21,9 @@ We aim to concentrate solely on the resources within this repository that exhibi
 ---
 
 - [Contents](#Awesome-Weak-Supervision-Sequence-Labeling)
-  - 1 [Survey](#1-survey)
+  - 1 [Surveys and Benchmarks](#1-surveys-and-benchmarks)
+    - 1.1 [Surveys](#11-surveys)
+    - 1.2 [Benchmarks](#12-benchmarks)
   - 2 [Papers](#2-papers)  
     - 2.1 [Schematic of Categorization](#21-schematic-of-categorization)
     - 2.2 [List of Papers](#22-list-of-papers)
@@ -35,13 +37,20 @@ We aim to concentrate solely on the resources within this repository that exhibi
 ---
 
 
-# 1. Survey
-
+# 1. Surveys and Benchmarks
+## 1.1 Surveys
 | Year |  Venue  |                                                                               Title                                                                               |                Implementation                 | 
 |:----:|:-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|
 | 2019 |   N/A   |              [Sequence Labeling with Multiple Noisy Annotators](http://ink-ron.usc.edu/xiangren/ml4know19spring/public/surveys/Ouyu_Lan_Survey.pdf)               |                       -                       |
 | 2021 | NeurIPS |                                    [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)                                     | [Official](https://github.com/JieyuZ2/wrench) |
 | 2022 |  ArXiv  |                                                           [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)                                                           |                       -                       |
+
+
+## 1.2 Benchmarks
+| Year |  Venue  |                                                                                                Title                                                                                                |                         Implementation                          | 
+|:----:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| 2021 | NeurIPS |                                                     [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)                                                      |          [Official](https://github.com/JieyuZ2/wrench)          |
+| 2022 |  NAACL  |                                     [WALNUT: A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding](https://arxiv.org/abs/2108.12603)                                   |          [Official](https://github.com/microsoft/WALNUT)        |
 
 
 # 2. Papers
